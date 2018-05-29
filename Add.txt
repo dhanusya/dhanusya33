@@ -1,0 +1,9 @@
+public class Add {
+   public static void main(String args[])
+{
+     byte num1=23;
+     byte num2=12;
+     int total=num1+num2;
+     System.out.println(total+"");
+}
+}
